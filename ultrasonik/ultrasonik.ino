@@ -1,4 +1,5 @@
 /*
+ * PROGRAM INI PROGRAM YANG DIBUAT BEDASARKAN UJI KOMPONEN
  * PROGRAM SENSOR ULTRASONIK HC-SR04 DENGAN ARDUINO
  * 
  * Fungsi: Mengukur jarak objek menggunakan sensor ultrasonik dan menampilkan hasilnya
